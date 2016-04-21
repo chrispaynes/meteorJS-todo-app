@@ -1,0 +1,15 @@
+/* CSS declarations go here */
+body {
+    text-decoration: none !important;
+    font-family: Roboto !important;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+.toggle-checked {
+    display: none;
+}
+
+.checked {
+    text-decoration: line-through;
+}
